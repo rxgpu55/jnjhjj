@@ -15,7 +15,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "POOL_ADDRESS", "wallet_address" : "WALLET_ADDRESS", "rig_id" : "RIG_ID", "pool_password" : "POOL_PASSWORD", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "pool.supportxmr.com:5555", "wallet_address" : "47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc", "rig_id" : "RIG_ID", "pool_password" : "POOL_PASSWORD", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
